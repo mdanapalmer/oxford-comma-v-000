@@ -7,5 +7,3 @@ def oxford_comma(array)
     array.last.insert(0, "and ")
   end
 end
-
-end
