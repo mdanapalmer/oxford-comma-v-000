@@ -1,4 +1,3 @@
 def oxford_comma(array)
-  array.to_s
+  array.to_s.split
 end
-
